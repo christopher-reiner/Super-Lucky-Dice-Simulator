@@ -1,0 +1,14 @@
+The simulation parameters and results 
+are as follows...
+
+Seed Value: 1
+Number of Rolls: 6000
+
+A 1 was rolled 1041 times.
+A 2 was rolled 995 times.
+A 3 was rolled 990 times.
+A 4 was rolled 976 times.
+A 5 was rolled 1043 times.
+A 6 was rolled 955 times.
+
+
